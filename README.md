@@ -9,7 +9,7 @@ This is a Discord bot that allows users to:
   - A ctftime api key ( get it from ctftime.org )
 
 ### Usage
-  - Create a new Discord bot and get its token at the Discord Developer Portal.
+  - Create a new Discord bot and get its token at the Discord Developer Portal. Create .env file and add the following
   ```shell
   DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
   CTFTIME_API_KEY=YOUR_CTFTIME_API_KEY
